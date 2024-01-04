@@ -1,4 +1,7 @@
 package doit
 
-class Max3 {
+import java.util.Scanner
+
+fun main() {
+    val sc = Scanner(System.`in`)
 }
